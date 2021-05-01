@@ -7,3 +7,5 @@ The Script Is Compatbile With Python2.
 This Script Is For Educational Propuse Use It At Your Own Risk.
 
 Enjoy.
+
+https://github.com/kruz26/kru-Gui-cal/blob/main/README.md
